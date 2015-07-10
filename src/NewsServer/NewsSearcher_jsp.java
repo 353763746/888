@@ -1,4 +1,4 @@
-package org.apache.jsp;
+package NewsServer;
 
 import javax.servlet.*;
 import javax.servlet.http.*;
